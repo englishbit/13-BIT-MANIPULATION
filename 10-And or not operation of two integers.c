@@ -18,12 +18,9 @@ int main(){
         printf("%d\n",not_res);
 
 
-
-
-
-
     return 0;
 }
+
 
 
 
