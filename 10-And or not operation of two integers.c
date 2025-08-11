@@ -7,6 +7,7 @@ int main(){
         scanf("%d",&num2);
     
 
+        //logic for calculation
         int or_res=num1|num2;
         int and_res=num1&num2;
         int not_res=~num1;
@@ -23,5 +24,6 @@ int main(){
 
     return 0;
 }
+
 
 
