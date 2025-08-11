@@ -11,6 +11,7 @@ int main(){
         int and_res=num1&num2;
         int not_res=~num1;
 
+        //logic for output
         printf("%d\n",or_res);
         printf("%d\n",and_res);
         printf("%d\n",not_res);
@@ -22,4 +23,5 @@ int main(){
 
     return 0;
 }
+
 
