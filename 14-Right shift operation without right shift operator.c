@@ -36,8 +36,5 @@ int main(){
         printf("%d ",num1[m]);
     }
 
-
-
-
     return 0;
 }
