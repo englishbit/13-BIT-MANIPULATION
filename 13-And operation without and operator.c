@@ -25,7 +25,7 @@ int main(){
             res_and[k]=false;
         }
     }
-
+    //logic for output
     for(int l=0;l<n;l++){
         printf("%d ",res_and[l]);
     }
@@ -38,5 +38,6 @@ int main(){
 
     return 0;
 }
+
 
 
