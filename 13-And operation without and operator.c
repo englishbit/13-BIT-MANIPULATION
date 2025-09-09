@@ -30,11 +30,6 @@ int main(){
         printf("%d ",res_and[l]);
     }
 
-
-
-
-
-
-
     return 0;
 }
+
