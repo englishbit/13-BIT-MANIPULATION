@@ -17,6 +17,7 @@ int main(){
         scanf("%d",(int*)&num2[j]);
     }
 
+    //logic for core idea
     for(int k=0;k<n;k++){
         if(num1[k]&&num2[k]){
             res_and[k]=true;
@@ -37,4 +38,5 @@ int main(){
 
     return 0;
 }
+
 
