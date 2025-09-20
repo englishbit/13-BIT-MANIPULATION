@@ -5,6 +5,7 @@ int set[max];
 
 int main(){
     int n;
+    //logic for taking input
     cin>>n;
     for(int i=0;i<n;i++){
         cin>>set[i];
@@ -19,5 +20,6 @@ int main(){
 
 
     return 0;
+
 
 }
