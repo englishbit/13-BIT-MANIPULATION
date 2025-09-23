@@ -5,6 +5,7 @@ int main(){
 int a;
 int b;
 cin>>a>>b;
+//logic for swaping
 a=a^b;
 b=a^b;
 a=a^b;
@@ -13,3 +14,4 @@ cout<<a<<endl<<b<<endl;
 
     return 0;
 }
+
