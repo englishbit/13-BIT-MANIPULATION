@@ -3,7 +3,7 @@ int main(){
     int n,rem;
     short m=32;
     int arr[33]; 
-
+    //logic for taking input
     scanf("%d",&n);
 
 
@@ -37,3 +37,4 @@ int main(){
 
     return 0;
 }
+
