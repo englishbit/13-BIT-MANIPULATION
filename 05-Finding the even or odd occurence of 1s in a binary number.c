@@ -7,7 +7,7 @@ int main(){
         printf("give a binary number in 32 bits(0s or 1s):\n");
 
         
-        //logic for takig input array
+        //logic for takig input array and main idea
         for(int i=0;i<n;i++){
             scanf("%d",&arr[i]);
             if(arr[i]!=0&&arr[i]!=1){
@@ -27,4 +27,5 @@ int main(){
 
     return 0;
 }
+
 
