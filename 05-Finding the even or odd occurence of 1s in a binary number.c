@@ -24,13 +24,5 @@ int main(){
             printf("the set bits have in odd times\n");
         }
 
-
-
-
-
-
-
-
-
     return 0;
 }
