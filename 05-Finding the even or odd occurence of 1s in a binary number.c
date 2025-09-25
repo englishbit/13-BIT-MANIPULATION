@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+        //logic for variable
         int xor_res=0;
         int n=32;
         int arr[n];
@@ -26,3 +27,4 @@ int main(){
 
     return 0;
 }
+
