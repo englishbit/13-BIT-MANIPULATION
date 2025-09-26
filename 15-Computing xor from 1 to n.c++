@@ -14,7 +14,9 @@ int main(){
 //logic for taking input
 int n;
 cin>>n;
+//logic for output
 cout<<Xor(n)<<endl;
 
     return 0;
+
 }
