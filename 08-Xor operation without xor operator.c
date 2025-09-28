@@ -3,7 +3,7 @@
 
 int main(){
     int n;
-
+    //logic for taking input
     scanf("%d",&n); 
     bool num1[n];
     bool num2[n];
@@ -43,3 +43,4 @@ int main(){
 
     return 0;
 }
+
