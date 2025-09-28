@@ -30,17 +30,10 @@ int main(){
             res_xor[k]=0;
         }
     }
-
+    //logic for output
     for(int l=0;l<n;l++){
         printf("%d ",res_xor[l]);
     }
 
-
-
-
-
-
-
     return 0;
 }
-
