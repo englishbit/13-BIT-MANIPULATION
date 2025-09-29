@@ -26,17 +26,11 @@ int main(){
         }
     }
 
+    //logic for output
     for(int l=0;l<n;l++){
         printf("%d ",res_or[l]);
     }
 
 
-
-
-
-
-
-    return 0;
+   return 0;
 }
-
-
