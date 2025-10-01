@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
 
+    //logic for taking input
     int n;
     scanf("%d",&n);
 
@@ -27,3 +28,4 @@ int main(){
 
     return 0;
 }
+
