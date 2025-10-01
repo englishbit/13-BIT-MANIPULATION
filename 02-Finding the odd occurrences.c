@@ -18,6 +18,7 @@ int main(){
         scanf("%d",&arr[i]);
     }
 
+    //logic for main idea
     int xor=0;
     for(int j=0;j<n;j++){
         xor=xor^arr[j];
@@ -28,4 +29,5 @@ int main(){
 
     return 0;
 }
+
 
