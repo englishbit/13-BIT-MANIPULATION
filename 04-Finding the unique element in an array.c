@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int xor_res=0;
-    
+    //logic for taking input
     int n;
     scanf("%d",&n);
 
@@ -40,3 +40,4 @@ int main(){
 
     return 0;
 }
+
