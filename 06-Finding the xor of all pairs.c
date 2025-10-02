@@ -4,6 +4,7 @@
 int main(){
 
         int n;
+        //logic for taking input
         scanf("%d",&n);
         int target;
         scanf("%d",&target);
@@ -56,3 +57,4 @@ int main(){
 
     return 0;
 }
+
