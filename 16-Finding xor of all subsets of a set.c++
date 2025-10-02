@@ -10,7 +10,7 @@ int main(){
     for(int i=0;i<n;i++){
         cin>>set[i];
     }
-    //logic for output
+    //logic for main idea and output
     if(n==0){
         cout<<0<<endl;
     }else if(n>1){
@@ -21,3 +21,4 @@ int main(){
 
     return 0;
 }
+
