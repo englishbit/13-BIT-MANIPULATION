@@ -29,15 +29,5 @@ int main(){
 
     printf("the unique element is %d\n",xor_res);
 
-
-
-
-
-
-
-
-
-
-    return 0;
+   return 0;
 }
-
