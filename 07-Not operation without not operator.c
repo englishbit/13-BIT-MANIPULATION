@@ -23,6 +23,7 @@ int main(){
         }
     }
 
+    //logic for output
     for(int l=0;l<n;l++){
         printf("%d ",num1[l]);
     }
@@ -35,4 +36,5 @@ int main(){
 
     return 0;
 }
+
 
