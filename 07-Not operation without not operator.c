@@ -28,13 +28,5 @@ int main(){
         printf("%d ",num1[l]);
     }
 
-
-
-
-
-
-
-    return 0;
+  return 0;
 }
-
-
