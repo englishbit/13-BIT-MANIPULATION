@@ -3,6 +3,7 @@ int main(){
     int xor_res=0;
     
     int n;
+    //logic for taking input
     scanf("%d",&n);
     if(n<1){
         printf("wrong input\n");
@@ -32,3 +33,4 @@ int main(){
 
     return 0;
 }
+
