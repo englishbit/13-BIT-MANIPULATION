@@ -5,6 +5,7 @@ int main(){
     int n;
     //logic for taking input
     scanf("%d",&n);
+    //logic for special case
     if(n<1){
         printf("wrong input\n");
         return 1;
@@ -33,4 +34,5 @@ int main(){
 
     return 0;
 }
+
 
