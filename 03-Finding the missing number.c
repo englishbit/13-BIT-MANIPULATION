@@ -16,6 +16,7 @@ int main(){
         xor_res=xor_res^i;
     }
 
+    //logic for core idea
     int array[n-1];
     for(int i=0;i<n-1;i++){
         scanf("%d",&array[i]);
@@ -35,6 +36,7 @@ int main(){
 
     return 0;
 }
+
 
 
 
