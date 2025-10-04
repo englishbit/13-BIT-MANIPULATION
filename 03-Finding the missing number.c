@@ -24,20 +24,6 @@ int main(){
     }
     //logic for output
     printf("the missing number is %d\n",xor_res);
-
-
-
-
-
-
-
-
-
-
-    return 0;
+    
+  return 0;
 }
-
-
-
-
-
