@@ -11,6 +11,7 @@ int main(){
         return 1;
     }
 
+    //logic for xoring
     for(int i=1;i<=n;i++){
         xor_res=xor_res^i;
     }
@@ -34,5 +35,6 @@ int main(){
 
     return 0;
 }
+
 
 
