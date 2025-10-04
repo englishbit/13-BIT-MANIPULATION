@@ -22,7 +22,7 @@ int main(){
         scanf("%d",&array[i]);
         xor_res=xor_res^array[i];
     }
-
+    //logic for output
     printf("the missing number is %d\n",xor_res);
 
 
@@ -36,6 +36,7 @@ int main(){
 
     return 0;
 }
+
 
 
 
