@@ -13,7 +13,7 @@ int main(){
     }
     int arr[n];
     
-
+    //logic for taking input
     for(int i=0;i<n;i++){
         scanf("%d",&arr[i]);
     }
@@ -29,4 +29,5 @@ int main(){
 
     return 0;
 }
+
 
