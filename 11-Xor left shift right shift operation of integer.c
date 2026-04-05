@@ -17,11 +17,5 @@ int main(){
         printf("%d\n",res_lft_sft);
         printf("%d\n",res_rgt_sft);
 
-
-
-
-
-
-
     return 0;
 }
