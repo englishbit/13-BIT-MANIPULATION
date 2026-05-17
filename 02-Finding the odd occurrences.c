@@ -18,7 +18,7 @@ int main(){
         scanf("%d",&arr[i]);
     }
 
-    //logic for main idea
+    //LOGIC OF MAIN IDEA
     int xor=0;
     for(int j=0;j<n;j++){
         xor=xor^arr[j];
