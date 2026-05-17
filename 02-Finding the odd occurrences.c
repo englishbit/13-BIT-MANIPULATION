@@ -7,7 +7,7 @@ int main(){
 
 
     if(n%2==0){
-        //logic for special case
+        //LOGIC FOR SPECIAL CASE
         printf("wrong input\n");
         return 1;
     }
