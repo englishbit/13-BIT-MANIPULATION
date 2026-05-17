@@ -24,7 +24,7 @@ int main(){
         xor=xor^arr[j];
     }
 
-    //logic for output
+    //LOGIC OF OUTPUT
     printf("the odd occurrences is %d\n",xor);
 
     return 0;
