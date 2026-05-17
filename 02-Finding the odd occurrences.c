@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 
-    //logic for taking input
+    //LOGIC FOR TAKING INPUT
     int n;
     scanf("%d",&n);
 
